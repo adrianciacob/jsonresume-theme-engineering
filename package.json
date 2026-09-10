@@ -26,7 +26,6 @@
   "dependencies": {
     "address-format": "0.0.3",
     "handlebars": "^4.7.8",
-    "jsonresume-theme-engineering": "file:./",
     "moment": "^2.30.1"
   },
   "devDependencies": {
